@@ -35,3 +35,39 @@ Java was designed to address the following problems:
 4. Complexity: Programming needed to become simpler and more reliable.
 5. Hardware Dependency: Software needed to work across different hardware platforms.
 Solution: Java introduced the concept of Write Once, Run Anywhere (WORA), using bytecode and JVM
+
+Java Data Types
+Data Types
+
+Primitive
+8 built-in types
+
+Integer types
+byte, short, int, long
+
+Floating-point types
+float, double
+
+Other types
+char, boolean
+
+Non-Primitive
+
+Reference types
+String
+Arrays
+Classes
+Objects
+Interfaces
+Enums
+
+Method Explanation
+Scanner method        Example          Return type
+nextInt()             25               int
+nextLong()            9876543210L      long
+nextFloat()           85.5f            float
+nextDouble()          25000.75         double
+next()                Venu             String
+nextLine()            Hello Java       String
+next().charAt(0)      A                char
+nextBoolean()         true             boolean
