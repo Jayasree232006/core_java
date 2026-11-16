@@ -1,0 +1,37 @@
+History and Origin of Java
+
+1. Green Project (1991)
+- Started at Sun Microsystems in 1991.
+- Led by James Gosling, along with Mike Sheridan and Patrick Naughton.
+- The goal was to develop software for electronic consumer devices.
+- They wanted a programming language that could work on different hardware platforms.
+
+2. Oak
+- Initially, Java was named Oak.
+- It was named after an oak tree outside James Gosling's office.
+- Oak was designed for embedded and consumer electronic devices.
+
+3. Star7 Demo
+- Star7 was an early handheld interactive device developed by the Green Project team.
+- It demonstrated features such as controlling electronic devices and interactive applications.
+- It helped demonstrate the potential of the Oak programming language.
+
+4. Renamed to Java (1995)
+- The name Oak was changed to Java in 1995.
+- The name Oak was already trademarked.
+- Java was officially introduced by Sun Microsystems in 1995.
+
+5. JDK 1.0 (1996)
+- JDK 1.0 was officially released on January 23, 1996.
+- JDK stands for Java Development Kit.
+- It provided tools to develop, compile and run Java programs.
+- It helped Java become popular for internet and application development.
+
+6. Problems Java Was Created to Solve
+Java was designed to address the following problems:
+1. Platform Dependency: Programs written for one operating system often could not run on another.
+2. Portability: Developers wanted programs to work on different devices.
+3. Security: A safer environment was needed for running programs.
+4. Complexity: Programming needed to become simpler and more reliable.
+5. Hardware Dependency: Software needed to work across different hardware platforms.
+Solution: Java introduced the concept of Write Once, Run Anywhere (WORA), using bytecode and JVM
